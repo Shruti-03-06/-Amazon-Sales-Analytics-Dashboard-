@@ -84,7 +84,7 @@ If you’ve published it on Power BI Service or Tableau Public:
 **Shruti Jain**  
 📧 shrutijain07808@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shruti-jain-a094aa233/)  
-📁 [GitHub Portfolio](https://github.com/yourusername)
+📁 [GitHub Portfolio](https://github.com/Shruti-03-06)
 
 ---
 
